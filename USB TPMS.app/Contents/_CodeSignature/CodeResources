@@ -10,35 +10,35 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		tMAz5BAwielkdj3JFmRbBfD0K08=
+		M7hdKsw2uqBtatkLtb1t3HOfeu0=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/5RT-R8-BMt-view-kX8-oV-Y8Z.nib</key>
 		<data>
-		xnbCf1JIQi4WwCOTmu2Qc2DOSJA=
+		C424IOcVjlo9NnH81xmbUFFr1uc=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Enroll.nib</key>
 		<data>
-		eIaxjoBT/d44+4iKgL5/4lnbDdc=
+		puZa7E8lJY19pGVqMerQNt3uDdg=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		2zClyMU2WuZBjMvPLELSBMgxmB8=
+		5r04RTyL/nzX1PxfGCssx3McllQ=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		5gNUX4AUEDThoR0/1Fyx/f8Pp6s=
+		reMTYrvRlLTp8HlxGZH9IZxLT54=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainPrace.nib</key>
 		<data>
-		69/Q06t0E1tWuS/lLgQ59K60X3g=
+		p+LuOmA8Nu11SyhFmLdN2N20BjA=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		Nyry6MiEhzZP/9auof88nWscZm8=
+		v1Uixp4Np5yM4GG8Ba3h2r+Y/kM=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Una-gW-ELe-view-Qzd-PT-x1f.nib</key>
 		<data>
-		PtWh+FiaLzo8NEKGpVN+UWHTkLc=
+		29lcvZHjdHntByaLpWN7ElUzh0E=
 		</data>
 		<key>Resources/Enroll.nib</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			PiM1+OzEnC8jm1vpgQjyfbB2pxQ=
+			vgCc+15MFIObT/C7hT0kLafQO5Y=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.Lottie" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = HEQGGF6N89)</string>
@@ -80,7 +80,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			VLIZ6ntN0eOUu/lE8pMOE+p+jcM=
+			Dhij2rghNZVkAHGpYEO7Y0EjUVQ=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.openreelsoftware.ORSSerial" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = HEQGGF6N89)</string>
@@ -161,7 +161,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			0z5r9BlC6AIxqCt9qG8Rx7pByLw=
+			MOwYSzChY94YVc3zgFizZfMiJVk=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "com.openreelsoftware.ORSSerialPort-Tests" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = HEQGGF6N89)</string>
@@ -177,56 +177,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jmDYkiFJCeH4DRu6umZcsOQkj2znwUZkjwIXjhEt8Bw=
+			n9BEIULuTFrma68sCmoLYCzRntj/briTjYMzViBKJyk=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/5RT-R8-BMt-view-kX8-oV-Y8Z.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8+NLBRIETbtYCjwWfOQ60QpaBPrlvFjUiD5SQthbDmQ=
+			iWLgSviJIaGe38F1FZOLakkTzKYzfcY+CNlFwXoh158=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Enroll.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rOUvSgbonGUHy8Fykle3qa+dn34FHqTEG16W/wEio3s=
+			gr50DNx+n9b/dMaUK6SIZzzQkOHnesvPusCLAY3IK5I=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O/XelkuLTSbzI4UydKaEb74O0Rdh2dP7R56vEZMz0L0=
+			oPw1Ihni0QIfHxQHh1asJkZzFnHiGKeayOliulZJA1g=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TfQalZF26Y5CAxCnq891696WQjZQP+juVlryRb6MFWo=
+			NOYYCUFj8/qXrHN5RNbZRUA9jaA1zut3XmWslhz2yaY=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainPrace.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			az5wZwGSymi4iRiweub1GiAlwXxfaNFRI/zFiXBreXA=
+			aYqJWGEIP+9zGWli481bYLXkhzw+Zx1oud4ZLXVBbVo=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			z11+mV4I5t3FGEijj34oPI7qLxTSp30wxwK8y0Yin8w=
+			eqc6pQ2NQXNYvXbOvfvmcv/14+q/2d1gnlnZTxJA+iI=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Una-gW-ELe-view-Qzd-PT-x1f.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ovY6dhjfljEB9JXAj/W3thhQIneWDG3Ch4AKVkM7BvE=
+			bxWlQ8XZGTbBijqZgMsibHzsdxkT9Au0RwIQ+8MbuCc=
 			</data>
 		</dict>
 		<key>Resources/Enroll.nib</key>
