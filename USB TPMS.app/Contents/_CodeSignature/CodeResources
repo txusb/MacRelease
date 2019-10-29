@@ -10,35 +10,35 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		M7hdKsw2uqBtatkLtb1t3HOfeu0=
+		AnIL3TzSe+SvfAHnKbNoxXsw+FQ=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/5RT-R8-BMt-view-kX8-oV-Y8Z.nib</key>
 		<data>
-		C424IOcVjlo9NnH81xmbUFFr1uc=
+		Q3wStQai0Pu562+YMkYuqxhQsrM=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Enroll.nib</key>
 		<data>
-		puZa7E8lJY19pGVqMerQNt3uDdg=
+		17WSJacXzoQlKus68J014rbHkmo=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
-		5r04RTyL/nzX1PxfGCssx3McllQ=
+		b+GovBrvULyO2MV8Wx/YMJh7p1I=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		reMTYrvRlLTp8HlxGZH9IZxLT54=
+		YP4BvmXLaTaf6ojFeWA0YFC/6R4=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainPrace.nib</key>
 		<data>
-		p+LuOmA8Nu11SyhFmLdN2N20BjA=
+		myW1Z3ZwtS6TIVYr2VjMRDfJkAU=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<data>
-		v1Uixp4Np5yM4GG8Ba3h2r+Y/kM=
+		b0gIj6VNglskTkgE1Orp32NZ6po=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Una-gW-ELe-view-Qzd-PT-x1f.nib</key>
 		<data>
-		29lcvZHjdHntByaLpWN7ElUzh0E=
+		23rfHS2WtF8f6M6wbkS0JIjM9h8=
 		</data>
 		<key>Resources/Enroll.nib</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			vgCc+15MFIObT/C7hT0kLafQO5Y=
+			9zjo26KuwCpDyjlugX+6v/5Bi3c=
 			</data>
 			<key>requirement</key>
 			<string>anchor apple generic and identifier "org.cocoapods.Lottie" and (certificate leaf[field.1.2.840.113635.100.6.1.9] /* exists */ or certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = HEQGGF6N89)</string>
@@ -177,56 +177,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n9BEIULuTFrma68sCmoLYCzRntj/briTjYMzViBKJyk=
+			hEHzoX98y2DO/ZlyubIjgFyZJXpKyZhDOu509fKaGMA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/5RT-R8-BMt-view-kX8-oV-Y8Z.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iWLgSviJIaGe38F1FZOLakkTzKYzfcY+CNlFwXoh158=
+			jxz04uDjazapkyFIE8UvVAE9hKWBrAGgpGA4pfhx7ro=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Enroll.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gr50DNx+n9b/dMaUK6SIZzzQkOHnesvPusCLAY3IK5I=
+			cKPje6DYFjjX1qHbPBtTvPQ6ZCJkzZcYqLIH0dHcjbs=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oPw1Ihni0QIfHxQHh1asJkZzFnHiGKeayOliulZJA1g=
+			dXguwcAu0K8uokO2mNCH9j3NQCKpfxrAZ0QWkUuN3Y4=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NOYYCUFj8/qXrHN5RNbZRUA9jaA1zut3XmWslhz2yaY=
+			BMavSsNLRMXKExo125A4RlLAOmGL9R0k4D/AcN9nKsk=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/MainPrace.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aYqJWGEIP+9zGWli481bYLXkhzw+Zx1oud4ZLXVBbVo=
+			HcE9SCBt4IHPaIvKthaZV2Gd5Tg0HlXOZ1lTZUEqGfM=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eqc6pQ2NQXNYvXbOvfvmcv/14+q/2d1gnlnZTxJA+iI=
+			qoL9NnUlxRbJh82JxEG30EpPt/554DaNJNAhULJ/qfA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Una-gW-ELe-view-Qzd-PT-x1f.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bxWlQ8XZGTbBijqZgMsibHzsdxkT9Au0RwIQ+8MbuCc=
+			XRyC3gISz0u3zVrCF2actfLWVVLo/w3XgB177h4zxas=
 			</data>
 		</dict>
 		<key>Resources/Enroll.nib</key>
