@@ -12,11 +12,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>FBE9FE29573F42878954CFA2E24091BE9E7102A0</string>
+				<string>A52B44BBD862689AF0EF294359AA157AC8412312</string>
 				<key>dateExpires</key>
-				<string>2024/9/5</string>
+				<string>2020/9/5</string>
 				<key>type</key>
-				<string>Developer ID Application</string>
+				<string>Mac Development</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -28,11 +28,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>FBE9FE29573F42878954CFA2E24091BE9E7102A0</string>
+						<string>A52B44BBD862689AF0EF294359AA157AC8412312</string>
 						<key>dateExpires</key>
-						<string>2024/9/5</string>
+						<string>2020/9/5</string>
 						<key>type</key>
-						<string>Developer ID Application</string>
+						<string>Mac Development</string>
 					</dict>
 					<key>name</key>
 					<string>Lottie.framework</string>
@@ -52,11 +52,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>FBE9FE29573F42878954CFA2E24091BE9E7102A0</string>
+						<string>A52B44BBD862689AF0EF294359AA157AC8412312</string>
 						<key>dateExpires</key>
-						<string>2024/9/5</string>
+						<string>2020/9/5</string>
 						<key>type</key>
-						<string>Developer ID Application</string>
+						<string>Mac Development</string>
 					</dict>
 					<key>name</key>
 					<string>ORSSerial.framework</string>
@@ -76,11 +76,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>FBE9FE29573F42878954CFA2E24091BE9E7102A0</string>
+						<string>A52B44BBD862689AF0EF294359AA157AC8412312</string>
 						<key>dateExpires</key>
-						<string>2024/9/5</string>
+						<string>2020/9/5</string>
 						<key>type</key>
-						<string>Developer ID Application</string>
+						<string>Mac Development</string>
 					</dict>
 					<key>name</key>
 					<string>ORSSerialPort Tests.xctest</string>
@@ -105,9 +105,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>4fb01405-28fa-4a4e-9f2e-827f8165f569</string>
+				<string>67301553-fba5-47a0-a702-3dee905a3c99</string>
 				<key>name</key>
-				<string>Jianzhi</string>
+				<string>TheAD</string>
 			</dict>
 			<key>team</key>
 			<dict>
