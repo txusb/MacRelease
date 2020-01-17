@@ -5,16 +5,9 @@
 	<key>destination</key>
 	<string>export</string>
 	<key>method</key>
-	<string>development</string>
-	<key>provisioningProfiles</key>
-	<dict>
-		<key>orange.macos.usbtpms</key>
-		<string>TheAD</string>
-	</dict>
-	<key>signingCertificate</key>
-	<string>Apple Development</string>
+	<string>developer-id</string>
 	<key>signingStyle</key>
-	<string>manual</string>
+	<string>automatic</string>
 	<key>teamID</key>
 	<string>HEQGGF6N89</string>
 </dict>

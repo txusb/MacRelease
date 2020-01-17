@@ -12,11 +12,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>A52B44BBD862689AF0EF294359AA157AC8412312</string>
+				<string>0CE2F6955DC82825CEEEB24E526F267ABC48532E</string>
 				<key>dateExpires</key>
-				<string>2020/9/5</string>
+				<string>2025/1/16</string>
 				<key>type</key>
-				<string>Mac Development</string>
+				<string>Developer ID Application</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -28,11 +28,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A52B44BBD862689AF0EF294359AA157AC8412312</string>
+						<string>0CE2F6955DC82825CEEEB24E526F267ABC48532E</string>
 						<key>dateExpires</key>
-						<string>2020/9/5</string>
+						<string>2025/1/16</string>
 						<key>type</key>
-						<string>Mac Development</string>
+						<string>Developer ID Application</string>
 					</dict>
 					<key>name</key>
 					<string>Lottie.framework</string>
@@ -52,11 +52,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A52B44BBD862689AF0EF294359AA157AC8412312</string>
+						<string>0CE2F6955DC82825CEEEB24E526F267ABC48532E</string>
 						<key>dateExpires</key>
-						<string>2020/9/5</string>
+						<string>2025/1/16</string>
 						<key>type</key>
-						<string>Mac Development</string>
+						<string>Developer ID Application</string>
 					</dict>
 					<key>name</key>
 					<string>ORSSerial.framework</string>
@@ -76,11 +76,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>A52B44BBD862689AF0EF294359AA157AC8412312</string>
+						<string>0CE2F6955DC82825CEEEB24E526F267ABC48532E</string>
 						<key>dateExpires</key>
-						<string>2020/9/5</string>
+						<string>2025/1/16</string>
 						<key>type</key>
-						<string>Mac Development</string>
+						<string>Developer ID Application</string>
 					</dict>
 					<key>name</key>
 					<string>ORSSerialPort Tests.xctest</string>
@@ -93,22 +93,8 @@
 					</dict>
 				</dict>
 			</array>
-			<key>entitlements</key>
-			<dict>
-				<key>com.apple.application-identifier</key>
-				<string>HEQGGF6N89.orange.macos.usbtpms</string>
-				<key>com.apple.developer.team-identifier</key>
-				<string>HEQGGF6N89</string>
-			</dict>
 			<key>name</key>
 			<string>USB TPMS.app</string>
-			<key>profile</key>
-			<dict>
-				<key>UUID</key>
-				<string>67301553-fba5-47a0-a702-3dee905a3c99</string>
-				<key>name</key>
-				<string>TheAD</string>
-			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
